@@ -1,6 +1,6 @@
 # Material Theme for Terminal.app
 
-![Material terminal theme screenshot](http://joeleisner.com/github/screenshots/material-terminal/screenshot-retina.png)
+![Material terminal theme screenshot](http://joeleisner.com/github/screenshots/material-terminal/screenshot-retina-v2.png)
 
 This is my personal Terminal.app profile (color scheme) for OS X based on Google's Material Design colors. From my understanding, a theme set-up exactly like this doesn't exist, so it's come together over time and now it's available here!
 
